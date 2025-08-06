@@ -1,4 +1,4 @@
-# RehabTrack_Workflow – Gross Movement Detection
+# RehabTrack_Workflow – Gross Movement Detector
 
 This is part of the [RehabTrack_Workflow](https://github.com/lrlcardoso/RehabTrack_Workflow): a modular pipeline for **tracking and analysing physiotherapy movements**, using video and IMU data.  
 This module detects **gross arm movements** from processed video pose data, generating binary “use” signals and summary statistics for each limb.
